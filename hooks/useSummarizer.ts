@@ -1,6 +1,6 @@
 // You'll need to install: npm install @huggingface/inference
 
-const HF_API_TOKEN = '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'; // Replace with your actual token
+const HF_API_TOKEN = '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'; // Replace with your actual token
 
 // Hugging Face Inference API endpoint
 const HF_API_BASE = 'https://api-inference.huggingface.co/models';
